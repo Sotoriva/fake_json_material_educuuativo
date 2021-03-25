@@ -18,6 +18,20 @@
             "id": 3,
             "titulo": "Título",
             "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "materia": "Matemática",
+            "ano": "2° Ano"
+        },
+        {
+            "id": 4,
+            "titulo": "Título",
+            "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "materia": "Matemática",
+            "ano": "3° Ano"
+        },
+        {
+            "id": 5,
+            "titulo": "Título",
+            "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
             "materia": "História",
             "ano": "2° Ano"
         }
